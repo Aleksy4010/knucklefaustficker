@@ -1,3 +1,5 @@
+# Only loosers read this
+
 # Quilt Template Mod
 
 The official Quilt template mod. You can use it as a template for your own mods!
